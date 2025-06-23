@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on IT Operation
+- 🔭 I’m currently working on Ops
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on DevOps
 - 💬 Ask me about DevOps
